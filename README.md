@@ -7,3 +7,10 @@
 1. The Above header should be header 3 
 2. I have no idea what I'm doing. 
 
+## This is a new change!
+1. Why did we change, to test of course!
+2. The Quick Brown Fox Jumped Over the Lazy Dog
+3. *what?*
+4. **Bold** 
+
+
